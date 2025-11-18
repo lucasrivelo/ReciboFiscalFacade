@@ -36,4 +36,7 @@ maneira em que ele somente inclua seus dados (como demonstrado na função
 
 - Execução do Programa
 No terminal:
+> npm init -y
+> npm install typescript ts-node
+> npx tsc --init
 > npx ts.node ReciboFiscalFacade.ts
